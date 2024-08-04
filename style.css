@@ -21,7 +21,7 @@
 }
 
 .logo{
-    font-size: 25px;
+    font-size: 35px;
     color: white;
     font-weight: 600px;
     transition: 0.3s ease;
@@ -79,6 +79,7 @@ span{
     padding: 30px 12% 0;
    }
    .home-content{
+    /* margin-top: 20px; */
     max-width: 800px;
    }
 
@@ -137,7 +138,6 @@ span{
 }
 
 .img-box img{
-    height: 75vh;
     border-radius: 50%;
     width: 550px;
 }
